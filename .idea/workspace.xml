@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709481be-665c-41ba-8d45-56600f2f5f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_1/UltimateArray.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/UltimateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/UltimateArray.class" afterDir="false" />
     </list>
@@ -115,22 +112,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343722801" />
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595344102534">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595389636502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595344102534" />
-    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595344102534">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595389636502" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595389636502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595344102534" />
-    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595344102534">
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595389636502" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595389636502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595344102534" />
-    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595344102534">
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595389636502" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595389636502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595344102534" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595389636502" />
     <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1595343800973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,6 +160,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_1/Main.java</url>
           <line>47</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson_1/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
