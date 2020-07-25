@@ -102,7 +102,7 @@ public class DBHandler {
         }
     }
 
-    public void getStudents (String name) { // Создадим таблицу, если она еще не существует
+    public void getStudents (String name) { 
         String sql = "SELECT name, score " +
                 "FROM students " +
                 "WHERE name = ?";
