@@ -91,4 +91,34 @@ public class DBHandler {
             return 0;
         }
     }
+
+    public void dropTable () { // Создадим таблицу, если она еще не существует
+        String sql = "DROP TABLE students";
+
+        try {
+            stmt.executeUpdate(sql);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void getStudents (String name) { // Создадим таблицу, если она еще не существует
+        String sql = "SELECT name, score " +
+                "FROM students " +
+                "WHERE name = ?";
+        try {
+            PreparedStatement ps = connection.prepareStatement(sql); // Сделаем подготовленный запрос
+            ps.setString(1, name);
+
+            ResultSet rs =  ps.executeQuery();
+            while(rs.next()) {
+                System.out.println(rs.getString("name") + " " +rs.getString("score"));
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+
 }

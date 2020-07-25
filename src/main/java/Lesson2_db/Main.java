@@ -1,19 +1,25 @@
 package Lesson2_db;
 
 import java.io.*;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Main {
     public static void main(String[] args) {
         // Задание 1
-        DBHandler db = new DBHandler();
-        db.connect();
-        db.createTable();
-        db.insertIntoStudents("Bob", 100);
-        db.insertIntoStudents("John", 50);
-        db.updateScoreStudents("John", 200);
-        db.deleteFromStudents("Bob");
-        db.deleteFromStudents("John");
+            DBHandler db = new DBHandler();
+            db.connect();
+            db.createTable();
+            db.insertIntoStudents("Bob", 100);
+            db.insertIntoStudents("John", 50);
+            db.updateScoreStudents("John", 200);
+
+            db.getStudents("Bob");
+
+            db.deleteFromStudents("Bob");
+            db.deleteFromStudents("John");
+
+        //db.dropTable();
 
         //Задание 2
         File file = new File("test.txt");

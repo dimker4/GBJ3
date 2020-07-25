@@ -106,25 +106,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595252522266" />
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595665006192">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595667038676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595665006192" />
-    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595665006192">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595667038676" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595667038675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595665006192" />
-    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595665006191">
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595667038675" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595667038675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595665006191" />
-    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595665006192">
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595667038675" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595667038676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595665006192" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595667038676" />
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1595666957853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595666957853" />
+    <state width="1921" height="356" key="GridCell.Tab.1.center" timestamp="1595666957852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595666957852" />
+    <state width="1921" height="356" key="GridCell.Tab.1.left" timestamp="1595666957852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595666957852" />
+    <state width="1921" height="356" key="GridCell.Tab.1.right" timestamp="1595666957853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595666957853" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1595253407607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595253407607" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Lesson2_db/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
