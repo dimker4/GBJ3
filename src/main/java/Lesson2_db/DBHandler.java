@@ -102,7 +102,7 @@ public class DBHandler {
         }
     }
 
-    public void getStudents (String name) { 
+    public void getStudents (String name) {
         String sql = "SELECT name, score " +
                 "FROM students " +
                 "WHERE name = ?";
