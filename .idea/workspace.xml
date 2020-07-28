@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709481be-665c-41ba-8d45-56600f2f5f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/PageNumberTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stud.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,11 +212,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_1/Main.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Client.java</url>
