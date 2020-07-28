@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709481be-665c-41ba-8d45-56600f2f5f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/PageNumberTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stud.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -55,7 +61,20 @@
       <recent name="Lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L3_IOstreams.Client" />
+      <module name="GBJ3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L3_IOstreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L3_IOstreams.Main" />
       <module name="GBJ3" />
@@ -84,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -102,6 +122,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Inspections" timestamp="1595252775286">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -115,6 +138,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595252444507" />
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595955162796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595955162796" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1595337563010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -131,46 +158,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="393" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343722801" />
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595831161718">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1595955929145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595831161718" />
-    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595831161718">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595955929145" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1595956419638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595831161718" />
-    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595831161717">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956419638" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1595956419638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595831161717" />
-    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595831161718">
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956419638" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1595956419638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595831161718" />
-    <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1595343800973">
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956419638" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1595956419638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343800973" />
-    <state width="1921" height="356" key="GridCell.Tab.1.center" timestamp="1595343800973">
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956419638" />
+    <state width="1921" height="253" key="GridCell.Tab.1.bottom" timestamp="1595956386844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="356" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343800973" />
-    <state width="1921" height="356" key="GridCell.Tab.1.left" timestamp="1595343800973">
+    <state width="1921" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956386844" />
+    <state width="1921" height="253" key="GridCell.Tab.1.center" timestamp="1595956386844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="356" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343800973" />
-    <state width="1921" height="356" key="GridCell.Tab.1.right" timestamp="1595343800973">
+    <state width="1921" height="253" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956386844" />
+    <state width="1921" height="253" key="GridCell.Tab.1.left" timestamp="1595956386844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="356" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595343800973" />
+    <state width="1921" height="253" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956386844" />
+    <state width="1921" height="253" key="GridCell.Tab.1.right" timestamp="1595956386844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="253" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595956386844" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1595821994718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595821994718" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1595822271743">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1595937943080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595822271743" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595937943080" />
+    <state x="342" y="215" key="new project wizard" timestamp="1595955935149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595955935149" />
     <state x="666" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1595342347295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -188,6 +223,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/Lesson_1/Main.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Client.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Server.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
