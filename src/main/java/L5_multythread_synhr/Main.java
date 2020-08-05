@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Подготовка!!!");
         CyclicBarrier cb = new CyclicBarrier(CARS_COUNT + 1); // Будем делать подготовку к гонке через CyclicBarrier
-        Race race = new Race(new Road(60), new Tunnel(), new Road(40));
+        Race race = new Race(new Road(60), new Tunnel(2), new Road(40), new Tunnel(1), new Tunnel(4));
         SynchronousQueue<Car> synQueue = new SynchronousQueue(); // Блокирующая очередь
         Car[] cars = new Car[CARS_COUNT];
         Thread[] arrThread = new Thread[CARS_COUNT];
@@ -120,10 +120,12 @@ class Road extends Stage {
 
 class Tunnel extends Stage {
     Semaphore sm;
-    public Tunnel() {
+    int bandwidth; // Пропускная способность
+    public Tunnel(int b) {
         this.length = 80;
         this.description = "Тоннель " + length + " метров";
-        sm = new Semaphore(Main.CARS_COUNT / 2); // Ограничим проходную способность туннеля
+        sm = new Semaphore(b); // Ограничим проходную способность туннеля
+        bandwidth = b;
     }
 
     @Override
