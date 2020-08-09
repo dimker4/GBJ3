@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="709481be-665c-41ba-8d45-56600f2f5f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/L5_multythread_synhr/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L5_multythread_synhr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L5_multythread_synhr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/PageNumberTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/PageNumberTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3_IOstreams/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3_IOstreams/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/HumanCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/HumanCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/HumanPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/HumanPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/HumanScan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/HumanScan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/MFU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/MFU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L4_multithread/PrintChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L4_multithread/PrintChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/CalcOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/CalcOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Race.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Road.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Road.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Stage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Tunnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L5_multythread_synhr/Tunnel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson2_db/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson2_db/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/GBJ3.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +79,7 @@
       <recent name="Lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="JUnit.L6Tests.test2_4">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L5_multythread_synhr.Calculator" />
       <module name="GBJ3" />
@@ -67,51 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3_IOstreams.Client" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L6_JUnit.Main" />
       <module name="GBJ3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L3_IOstreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3_IOstreams.Main" />
-      <module name="GBJ3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L3_IOstreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L5_multythread_synhr.Main" />
-      <module name="GBJ3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L5_multythread_synhr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_1.Main" />
-      <module name="GBJ3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_1.*" />
+          <option name="PATTERN" value="L6_JUnit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +119,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L6Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GBJ3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="L6Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L6Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GBJ3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="L6Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L6Tests.test2_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GBJ3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="L6Tests" />
+      <option name="METHOD_NAME" value="test2_4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L6Tests.test2_4" />
+        <item itemvalue="JUnit.L6Tests" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="JUnit.L6Tests.test1" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,38 +211,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1595955929145" />
-    <state width="1921" height="267" key="GridCell.Tab.0.bottom" timestamp="1596607480477">
+    <state width="1921" height="253" key="GridCell.Tab.0.bottom" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596607480477" />
-    <state width="1921" height="267" key="GridCell.Tab.0.center" timestamp="1596607480477">
+    <state width="1921" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.0.center" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596607480477" />
-    <state width="1921" height="267" key="GridCell.Tab.0.left" timestamp="1596607480477">
+    <state width="1921" height="253" key="GridCell.Tab.0.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.0.left" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596607480477" />
-    <state width="1921" height="267" key="GridCell.Tab.0.right" timestamp="1596607480477">
+    <state width="1921" height="253" key="GridCell.Tab.0.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.0.right" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596607480477" />
-    <state width="1921" height="253" key="GridCell.Tab.1.bottom" timestamp="1596606840738">
+    <state width="1921" height="253" key="GridCell.Tab.0.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.1.bottom" timestamp="1596948451128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596606840738" />
-    <state width="1921" height="253" key="GridCell.Tab.1.center" timestamp="1596606840737">
+    <state width="1921" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451128" />
+    <state width="1921" height="253" key="GridCell.Tab.1.center" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="253" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596606840737" />
-    <state width="1921" height="253" key="GridCell.Tab.1.left" timestamp="1596606840737">
+    <state width="1921" height="253" key="GridCell.Tab.1.center/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.1.left" timestamp="1596948451127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="253" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596606840737" />
-    <state width="1921" height="253" key="GridCell.Tab.1.right" timestamp="1596606840738">
+    <state width="1921" height="253" key="GridCell.Tab.1.left/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451127" />
+    <state width="1921" height="253" key="GridCell.Tab.1.right" timestamp="1596948451128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="253" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596606840738" />
+    <state width="1921" height="253" key="GridCell.Tab.1.right/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1596948451128" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1595821994718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,6 +282,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/L3_IOstreams/Server.java</url>
           <line>13</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L6_JUnit/ArrTask.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L6_JUnit/ArrTask.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
