@@ -5,40 +5,39 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        final int SIZE = 5;
+        final int SIZE = 10; // Размерность матрицы
         int i = 0;
-        int j = -1;
-        int k = 0;
-        int iter = 0;
-        int order = 0;
+        int j = -1; // -1 для корректного выполнения первого шага
+        int k = 0; // Счетчик для заполнения матрицы
+        int iter = 0; // Порядковый номер итерации
         int[][] arr = new int[SIZE][SIZE];
 
-        while (j < SIZE && k != 16) {
+        // Общий цикл
+        while (k < SIZE*SIZE) {
+            // Цикл для заполнения шага вперед
             while (j < (SIZE - 1 - iter)) {
-                order = 1;
                 j++;
                 arr[i][j] = k;
                 k++;
             }
 
+            // Цикл для заполнения шага вниз
             while (j == (SIZE-1-iter) && i < (SIZE - 1 - iter)) {
-                order = 2;
                 i++;
                 arr[i][j] = k;
                 k++;
             }
 
-            if (i == (SIZE - 1 - iter)) {
-                order = 3;
-                while (j > 0 && k != SIZE*SIZE) {
+            if (i == (SIZE - 1 - iter)) { // Цикл для заполнения шага назад
+                while (j > iter && k != SIZE*SIZE) {
                     j--;
                     arr[i][j] = k;
                     k++;
                 }
             }
 
-            while (i <= SIZE-1 && i > 0 && j == 0) {
-                order = 4;
+            // Цикл для заполнения шага вверх
+            while (i <= SIZE-1 && i > iter && j == iter) {
                 i--;
                 if (i != j) {
                     arr[i][j] = k;
@@ -49,7 +48,13 @@ public class Main {
                 };
             }
 
+            // Считаем количество итераций
             iter++;
+            // Выводим промежуточный итог после каждой итерации
+            for(int t = 0; t < SIZE; t ++) {
+                System.out.println(Arrays.toString(arr[t]));
+            }
+            System.out.println();
         }
 
         for(int t = 0; t < SIZE; t ++) {
