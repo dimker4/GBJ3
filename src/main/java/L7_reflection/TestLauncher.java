@@ -36,10 +36,8 @@ public class TestLauncher {
                     ArrayList<Method> list = new ArrayList();
                     if (hm.containsKey(bs.priority())) {
                         list = hm.get(bs.priority());
-                        list.add(m);
-                    } else {
-                        list.add(m);
                     }
+                    list.add(m);
                     hm.put(bs.priority(), list);
                 }
             }
